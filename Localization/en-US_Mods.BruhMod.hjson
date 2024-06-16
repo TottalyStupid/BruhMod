@@ -1,0 +1,103 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	FireSword: {
+		DisplayName: Fire Sword
+		Tooltip: ""
+	}
+
+	ChaosBlade: {
+		DisplayName: Chaos Blade
+		Tooltip: Summons random enemies with 50% chance when hits an enemy
+	}
+
+	InfiniteGelTank: {
+		DisplayName: Infinite Gel Tank
+		Tooltip: ""
+	}
+
+	Aboba: {
+		DisplayName: Aboba
+		Tooltip: ""
+	}
+
+	AbobaGun: {
+		DisplayName: Aboba Gun
+		Tooltip: ""
+	}
+
+	AbobaAmmo: {
+		DisplayName: Aboba Ammo
+		Tooltip: ""
+	}
+
+	ColorRevolution: {
+		DisplayName: Color Revolution
+		Tooltip: ""
+	}
+
+	Bestiary.BruhPerson: Построен из блоков, с руками из стали. Качает своё железо и днём и ночью.
+
+	GrenadeMinishark: {
+		DisplayName: Grenade Minishark
+		Tooltip: ""
+	}
+
+	SussyGussy: {
+		Tooltip: ""
+		DisplayName: Sussy Gussy
+	}
+
+	SussyWorkbench: {
+		DisplayName: Sussy Workbench
+		Tooltip: ""
+	}
+
+	Hammerdom: {
+		DisplayName: Hammerdom
+		Tooltip: ""
+	}
+
+	CatBlade: {
+		Tooltip: ""
+		DisplayName: Cat Blade
+	}
+
+	Infinity: {
+		DisplayName: Infinity
+		Tooltip: You are no longer consume ammo for shot.
+	}
+
+	IcyAmmo: {
+		DisplayName: Icy Ammo
+		Tooltip: ""
+	}
+}
+
+NPCs: {
+	BruhPerson: {
+		DisplayName: Bruh Person
+
+		TownNPCMood: {
+			Content: Я довольный.
+			NoHome: Терпеть не могу, когда у меня нет дома.
+			FarFromHome: Я слишком далеко от дома.
+			LoveSpace: Я люблю, когда так много пространства.
+			DislikeCrowded: Мне не нравится то, как здесь людно.
+			HateCrowded: Я ненавижу то, как здесь людно.
+			LikeBiome: Мне нравится {BiomeName}.
+			DislikeBiome: Мне не нравится {BiomeName}.
+			LoveNPC: Я люблю {NPCName}.
+			LikeNPC: Мне нравится {NPCName}.
+			DislikeNPC: Мне не нравится {NPCName}.
+			HateNPC: Я ненавижу {NPCName}.
+			LikeNPC_Princess: Мне нравится {NPCName}.
+			Princess_LovesNPC: Мне нравится {NPCName}.
+			LoveBiome: Я люблю {BiomeName}.
+		}
+
+		Census.SpawnCondition: Conditions unknown
+	}
+}
+
+Projectiles.HammerdomProjectile.DisplayName: Hammerdom Projectile

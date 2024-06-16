@@ -1,0 +1,3 @@
+displayName = BruhMod
+author = Azazel_
+version = 0.1
